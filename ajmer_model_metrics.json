@@ -1,0 +1,16 @@
+{
+  "random_forest": {
+    "MAE": 0.7020683414502166,
+    "RMSE": 0.9066172836003223,
+    "R2": 0.30521926634517105
+  },
+  "previous_day_baseline": {
+    "MAE": 0.7575986394557822,
+    "RMSE": 1.0213919906869526,
+    "R2": 0.11817039568492094
+  },
+  "training_rows": 584,
+  "testing_rows": 147,
+  "station_latitude": 26.471257,
+  "station_longitude": 74.64548
+}
